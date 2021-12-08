@@ -9,3 +9,5 @@ Create a timer with options
 - Once the timer finishes, the ring should change from green to red
 
 ![Pomodoro-timer screen](https://github.com/bonjwa1337/Pomodoro-timer/blob/main/timer.jpg)
+
+![Timer stop](https://github.com/bonjwa1337/Pomodoro-timer/blob/main/timerend.jpg)
