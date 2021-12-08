@@ -8,4 +8,4 @@ Create a timer with options
 - Click on the gear icon to change the length (minutes and seconds) of the timer.
 - Once the timer finishes, the ring should change from green to red
 
-![Pomodoro-timer screen](https://github.com/bonjwa1337/Pomodoro-timer/blob/main/timer.PNG)
+![Pomodoro-timer screen](https://github.com/bonjwa1337/Pomodoro-timer/blob/main/timer.jpg)
